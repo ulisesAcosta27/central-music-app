@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1>Hola Mundo</h1>
+      <h1>central music app</h1>
     </div>
   );
 }
