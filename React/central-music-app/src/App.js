@@ -1,9 +1,10 @@
+import Layout from './components/Layout';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <h1>central music app</h1>
+      <Layout />      
     </div>
   );
 }
